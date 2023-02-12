@@ -8,10 +8,12 @@ Committed the inital files <br />
 Shared the link <br />
 Typed out the codes <br />
 <hr>
-Kayla <br />
-<br />
-<br />
-<br />
+Kayla: <br />
+Navigated and guided the driver to a working solution <br />
+Helped format and debug code <br />
+Forked project into own repository <br />
+Added readme files and pushed back to github <br />
+Asked host to merge file into one <br />
 Mason 
 Navigated SJ and helped brainstorm to working solutions.<br />
 Helped with formatting and debuging. <br />
