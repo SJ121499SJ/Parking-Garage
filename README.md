@@ -1,5 +1,6 @@
 # Parking-Garage
 Parking Garage
+<hr>
 SJ: <br />
 Created a local folder for the project <br />
 Create a github repository <br />
