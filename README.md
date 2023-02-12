@@ -1,10 +1,11 @@
 # Parking-Garage
 Parking Garage
 SJ: <br />
-1 <br />
-2 <br />
-3 <br />
-4 <br />
+Created a local folder for the project <br />
+Create a github repository <br />
+Committed the inital files <br />
+Shared the link <br />
+Typed out the codes <br />
 Kayla <br />
 <br />
 <br />
