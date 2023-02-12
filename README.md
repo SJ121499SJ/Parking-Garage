@@ -14,7 +14,9 @@ Helped format and debug code <br />
 Forked project into own repository <br />
 Added readme files and pushed back to github <br />
 Asked host to merge file into one <br />
-Mason 
+<hr>
+Mason
+<hr>
 Navigated SJ and helped brainstorm to working solutions.<br />
 Helped with formatting and debuging. <br />
 Forked project to own repository <br />
