@@ -6,6 +6,7 @@ Create a github repository <br />
 Committed the inital files <br />
 Shared the link <br />
 Typed out the codes <br />
+<hr>
 Kayla <br />
 <br />
 <br />
