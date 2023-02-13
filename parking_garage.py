@@ -1,5 +1,6 @@
 class Parking_garage():
     price = 5
+    # initialize class
     def __init__(self,):
         self.tickets = []
         self.parking_spaces = sorted(['a1','a2','a3','a4','a5','a6','a7'])
